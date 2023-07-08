@@ -2,6 +2,13 @@
 
 I'm a computer science student from Vicenza, Italy, currently in my final year of high school. My passion lies in software development and I'm always eager to learn and explore new technologies.
 
+## 👌 About me
+
+- Living in italy
+- I'm 18
+- I'm studing computer science
+- Interested in Aerospace field
+
 ## 🔭 Skills
 
 - Programming Languages: C, C++, C#, Java
