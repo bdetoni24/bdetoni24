@@ -1,20 +1,20 @@
-# Hi there, I'm De Toni Bernardo! 👋
+# Hi, I'm De Toni Bernardo 👋
 
-I'm a computer science student from Vicenza, Italy, currently in my final year of high school. My passion lies in software development and I'm always eager to learn and explore new technologies.
+I'm an undergraduate aerospace engineering student at the University of Padova. From Vicenza, Italy. Born 2005. 20 years old. High-school background in computer science. Interested in software and aerospace.
 
-## 👌 About me
+## About me
 
-- Living in italy
-- I'm 18
-- I'm studing computer science
-- Interested in Aerospace field
+- Based in Vicenza, Italy  
+- 20 years old (b. 2005)  
+- Undergraduate, Aerospace Engineering — University of Padova  
+- High-school background in Computer Science
 
-## 🔭 Skills
+## 💻 Computer skills
 
 - Programming Languages: C, C++, C#, Java
 - Problem-solving and algorithmic thinking
 - Object-oriented programming
 
-## 📫 Get in touch
+## 📫 Contact
 
-I'm always open to collaborations and new opportunities. Feel free to reach out to me via email at [bdetoni24@gmail.com](mailto:bdetoni24@gmail.com).
+- [bdetoni24@gmail.com](mailto:bdetoni24@gmail.com)
