@@ -5,7 +5,7 @@ I'm an undergraduate aerospace engineering student at the University of Padova. 
 ## About me
 
 - Based in Vicenza, Italy  
-- 20 years old (b. 2005)  
+- 21 years old (b. 2005)  
 - Undergraduate, Aerospace Engineering — University of Padova  
 - High-school background in Computer Science
 
