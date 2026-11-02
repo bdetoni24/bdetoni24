@@ -1,4 +1,4 @@
-# Hi, I'm De Toni Bernardo 👋
+# De Toni Bernardo here
 
 I'm an undergraduate aerospace engineering student at the University of Padova. From Vicenza, Italy. Born 2005. 21 years old. High-school background in computer science. Interested in software and aerospace. 
 Member of THRUST Team (UniPd).
@@ -10,13 +10,13 @@ Member of THRUST Team (UniPd).
 - Undergraduate, Aerospace Engineering — University of Padova  
 - High-school background in Computer Science
 
-## 💻 Computer skills
+## Computer skills
 
 - Programming Languages: C, C++, C#, Java
 - Problem-solving and algorithmic thinking
 - Object-oriented programming
 
-## 📫 Contact
+## Contact
 
 - [bdetoni24@gmail.com](mailto:bdetoni24@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/bernardodetoni/)
